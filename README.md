@@ -1,5 +1,6 @@
 # Building a VMWare Network of an Active Directory Server
-![image](https://github.com/andrewkim0129/VirtualBox-ADDS-Project/assets/27276227/8fab8c95-6371-4015-a43e-d8256bcfb01b)
+![image](https://github.com/andrewkim0129/VirtualBox-ADDS-Project/assets/27276227/c8d36582-41e1-42c9-ac08-c3f44c607202)
+
 
 
 ## Introduction
@@ -8,27 +9,34 @@ In this project, I built a home lab using Oracle VirtualBox to create a VMWare n
 
 
 ## VirtualBox Installation and VM configuration
-![image](https://github.com/andrewkim0129/VirtualBox-ADDS-Project/assets/27276227/1d58dba1-82cb-4b65-b765-56652913c5e4)
+![image](https://github.com/andrewkim0129/VirtualBox-ADDS-Project/assets/27276227/9868437a-e894-4deb-b99f-6b43fd68693f)
+
 
 
 ## Domain Controller NIC configuration
-![image](https://github.com/andrewkim0129/VirtualBox-ADDS-Project/assets/27276227/cc258109-0d85-4e31-a247-c36d3d70511b)
+![image](https://github.com/andrewkim0129/VirtualBox-ADDS-Project/assets/27276227/7c024c92-4109-41c6-938b-509303e678fd)
+
 
 
 ## Active Directory Domain Services Installation
-![image](https://github.com/andrewkim0129/VirtualBox-ADDS-Project/assets/27276227/29d02085-ef69-457a-b1d2-825357c53005)
+![image](https://github.com/andrewkim0129/VirtualBox-ADDS-Project/assets/27276227/f856d120-5f83-483c-afec-21f924a6c915)
+
 
 
 ## RAS / NAT Deployment and Configuration
-![image](https://github.com/andrewkim0129/VirtualBox-ADDS-Project/assets/27276227/560a666c-9039-47e4-944e-06cee87c96ed)
+![image](https://github.com/andrewkim0129/VirtualBox-ADDS-Project/assets/27276227/6629defd-6940-42d0-9edd-aa2bcb7aa659)
+
 
 
 ## DHCP Server Deployment and Configuration
-![image](https://github.com/andrewkim0129/VirtualBox-ADDS-Project/assets/27276227/9e8186f8-59c9-4a2b-bbf6-6229e39583a0)
+![image](https://github.com/andrewkim0129/VirtualBox-ADDS-Project/assets/27276227/8248d1de-ad2d-442a-876c-e6519bc53366)
+
 
 
 
 ## 1000 Users Generated Using PowerShell + Confirming Domain Connection from Client
-![image](https://github.com/andrewkim0129/VirtualBox-ADDS-Project/assets/27276227/87cb6fd6-a213-42a8-8589-7ffef4cc006f)
-![image](https://github.com/andrewkim0129/VirtualBox-ADDS-Project/assets/27276227/186f8f97-d25a-44a4-90f4-a2bbbbeeee8f)
+![image](https://github.com/andrewkim0129/VirtualBox-ADDS-Project/assets/27276227/25065975-1eda-4e2b-bfdf-78ed7200f14d)
+
+![image](https://github.com/andrewkim0129/VirtualBox-ADDS-Project/assets/27276227/435e824e-774f-4ee2-9cc0-dbec3eb77810)
+
 
